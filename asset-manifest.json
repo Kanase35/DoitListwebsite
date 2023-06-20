@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DoitListwebsite/static/css/main.e95be6e4.css",
+    "main.js": "/DoitListwebsite/static/js/main.fd5e189d.js",
+    "static/js/787.f72284e1.chunk.js": "/DoitListwebsite/static/js/787.f72284e1.chunk.js",
+    "index.html": "/DoitListwebsite/index.html",
+    "main.e95be6e4.css.map": "/DoitListwebsite/static/css/main.e95be6e4.css.map",
+    "main.fd5e189d.js.map": "/DoitListwebsite/static/js/main.fd5e189d.js.map",
+    "787.f72284e1.chunk.js.map": "/DoitListwebsite/static/js/787.f72284e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95be6e4.css",
+    "static/js/main.fd5e189d.js"
+  ]
+}
